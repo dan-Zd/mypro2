@@ -1,0 +1,22 @@
+
+body{
+  font:12px;
+  position:relative;
+}
+table{
+ position:absolute;
+ top:160px;
+ left:400px;
+ text-align: center;
+ width:500px;
+ height:250px;
+
+}
+ caption{
+  font-weight: bold;
+  font: 15px;
+  margin-bottom: 10px;
+ } 
+ td{
+  width:40px;
+ }
