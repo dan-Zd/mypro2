@@ -1,2 +1,2 @@
 # mypro2
-a simple syllabus based on html5
+a simple syllabus based on html5.
